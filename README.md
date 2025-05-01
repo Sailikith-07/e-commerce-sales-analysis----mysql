@@ -19,11 +19,6 @@ The database contains four main tables:
 - **Orders**: order_id, customer_id, order_date, payment_method  
 - **Order_Details**: order_detail_id, order_id, product_id, quantity
 
-### 🔗 ER Diagram
-
-![ER Diagram](./er_diagram.png)  
-*The diagram shows the relationships between all four tables in the database.*
-
 ---
 
 ## 🔍 Key Objectives
@@ -71,7 +66,7 @@ The database contains four main tables:
 ## 📄 Project Report
 
 Download the full project documentation here:  
-📎 [Ecommerce_SQL_Project.pdf](./e-commerce_SQL_Project.pdf)
+📎 [Ecommerce_SQL_Project.pdf](./e-commerce%20sql%20project.pdf)
 
 ---
 
@@ -85,10 +80,4 @@ Download the full project documentation here:
 
 ---
 
-## 📫 Contact
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or email me at **youremail@example.com**  
-I’m actively learning Data Analytics and open to feedback or collaboration!
-
----
 
